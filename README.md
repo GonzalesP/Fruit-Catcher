@@ -1,4 +1,4 @@
--------------------------------- INSTRUCTIONS --------------------------------
+# Instructions
 The goal of the game is to catch as many fruits as you can before
 losing 3 lives!
 
@@ -8,9 +8,7 @@ Controls:
     Press LSHIFT or RSHIFT to SPRINT (move twice as fast).
     - Sometimes you'll need to sprint to close large gaps between fruits!
 
-
-
------------------------------------ CREDITS -----------------------------------
+# Credits
 Game inspiration:
     Fruit Catcher is based on the rhythm game "osu! Catch the Beat."
 
